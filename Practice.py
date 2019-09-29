@@ -7,7 +7,6 @@ def reverse(x):
 
     while sLength > - 1:
         placeholder[i] = x[sLength]
-
         i = i +1
         sLength = sLength - 1
     rStr = "".join(placeholder)
