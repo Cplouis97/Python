@@ -12,10 +12,6 @@ def reverse(x):
     rStr = "".join(placeholder)
     return rStr
 
-
-
-
-
 print("----------Reverse String APP----------")
 y = input("Enter A String: ")
 
