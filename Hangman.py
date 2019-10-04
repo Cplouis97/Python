@@ -12,7 +12,7 @@ def play_game(pgques, pgans):
     letGuessed = ""
 
     for i in range(ansLength):
-            placeholder.append("_") # adds underscores to the placeholder for aesthetics
+            placeholder.append("*") # adds underscores to the placeholder for aesthetics
     for j in range(ansLength):
         if pgans[j] == " ":
             placeholder[j] = " " #places a space in the placeholder if needed
