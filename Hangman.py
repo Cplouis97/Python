@@ -1,3 +1,5 @@
+#Hangman Style Game about me
+
 import time
 import sys
 from time import sleep
