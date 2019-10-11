@@ -1,0 +1,13 @@
+John;Doe;79;88;88
+Jane;Doe;89;90;76
+Max;Jean;98;94;95
+Janine;Kirk;90;80;85
+Ken;Liner;69;67;74
+Lidia;Johnson;76;88;77
+Kristen;Yon;89;90;90
+Carl;Tucker;89;89;92
+Matthew;Opal;59;66;63
+Brianna;Britt;83;81;93
+Heather;Spoon;75;90;91
+Patricia;Valdez;97;98;97
+Logan;Foster;94;91;91
