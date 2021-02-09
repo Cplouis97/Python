@@ -17,7 +17,7 @@ def reverse(x):
     return rStr #Returns the reversed string
 
 print("----------Reverse String APP----------")
-y = input("Enter A String: ") #user enters a string that they want to reverse
+y = input("Enter A String: ") #user enters a string that they want to revers
 
 fStr = reverse(y) #Captures the returned string from the function
 
