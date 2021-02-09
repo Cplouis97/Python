@@ -30,7 +30,7 @@ def main():
         contents = contents.split(";")
        #print(contents)
         c1 = my_Class(contents[0], contents[1], contents[2], contents[3], contents[4]) #my_Class object
-        ArrayList.append(c1) #add the object to the array
+        ArrayList.append(c1) #addthe object to the array
     f.close()
 
     cAvg = 0
