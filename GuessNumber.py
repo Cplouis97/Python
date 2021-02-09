@@ -21,7 +21,7 @@ def main(x):
 
 
 print("--------------- Guess a Number Game ---------------")
-name = input("Enter your name please: ") # users name is entered for later use
+name = input("Enter your name please: ") # users name is entered for later  use
 
 if __name__ == '__main__':
     main(name)
